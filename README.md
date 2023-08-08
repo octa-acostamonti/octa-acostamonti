@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🇦🇷 Soy Argentino!
+🇦🇷 Argentino!
 
 🔛 Actualmente me encuentro estudiando la carrera de Ingenieria en Inteligencia Artificial en la Universidad de San Andres
 
