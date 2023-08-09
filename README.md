@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 Programacion: Python, SQL, NoSQL.Frameworks: NumPy, Pandas, PySpark, Airflow. Herramientas: Docker, Git, GitHub.
 ```
 
-## Contactame!:
+## Contactos!:
 
 * Mail: acostamonti.business@gmail.com
 * LinkedIn: https://www.linkedin.com/in/octavio-juli%C3%A1n-acosta-monti-122814236/
