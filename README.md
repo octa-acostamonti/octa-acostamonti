@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 🦰 Conocimientos:
 ```
-Programacion: Python, SQL, NoSQL.Frameworks: NumPy, Pandas, PySpark, Airflow. Herramientas: Docker, Git, GitHub.
+Programacion: Python, SQL, NoSQL.Frameworks: NumPy, Pandas, PySpark, Airflow. Herramientas: Docker, Git, GitHub. Bases de Datos: MySQL, PostgreSQL. Servicios de Nube: Microsoft Azure.
 ```
 
 ## Contactos!:
