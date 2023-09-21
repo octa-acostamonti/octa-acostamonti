@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 👨‍🏫 MOOCs-Analisis: 
   * Generacion de 3 KPIs para una empresa emergente en el mercado de MOOCs (cursos masivos, abiertos y online) para determinar el camino a seguir. Para ello, recopile datos de Coursera,        edX y Udemy, luego los limpie y genere un analisis exploratorio (EDA). El resultado final fue presentado en un Dashboard en Streamlit.
 
-## 🦰 Conocimientos:
+## 🦰 Herramientas:
 ```
 Programacion: Python, SQL, NoSQL.Frameworks: NumPy, Pandas, PySpark, Airflow. Herramientas: Docker, Git, GitHub. Bases de Datos: MySQL, PostgreSQL. Servicios de Nube: Microsoft Azure.
 ```
