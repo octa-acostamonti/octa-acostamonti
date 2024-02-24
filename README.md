@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 🔛 Actualmente me encuentro ingresando a la carrera de Ingenieria en Inteligencia Artificial en la Universidad de San Andres
 
+🔭 Me estoy diviertiendo en Extendeal (working)
+
 🤔 Soy una persona muy curiosa. Me interesan mucho los datos, el Real Estate, la Astronomia y leer!
 
 ## 📑 Proyectos:
